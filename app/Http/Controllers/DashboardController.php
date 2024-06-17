@@ -13,4 +13,10 @@ class DashboardController extends Controller
     public function create(){
         return view('pages.dashboard.create');
     }
+    public function hh(){
+        return view('pages.dashboard.create');
+    }
+    public function gg(){
+        return view('pages.dashboard.create');
+    }
 }
